@@ -10,3 +10,9 @@
 * 'git status' report satatus of working directory
 * 'git log' - list commit history of local history
 * 'git log --oneline' list commit history (compact hiscory)
+
+## Branching Commands
+* 'git branch branchName' - create local branch 'branchName'
+* 'git checkout branchName' - switch to branch 'branchName'
+* 'git checkout -b branchName' switch and create (if not currently avaliable)branchName
+
